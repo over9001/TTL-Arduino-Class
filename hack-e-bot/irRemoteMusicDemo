@@ -1,4 +1,4 @@
-#include <IRremote.h>
+#include <IRremote.h>  // Library from https://github.com/z3t0/Arduino-IRremote
 #include <toneAC.h>
 
 const unsigned long irONE = 0x20DF8877;

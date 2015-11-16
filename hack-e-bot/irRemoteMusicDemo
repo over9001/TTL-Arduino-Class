@@ -1,5 +1,5 @@
 #include <IRremote.h>  // Library from https://github.com/z3t0/Arduino-IRremote
-#include <toneAC.h>
+#include <toneAC.h>    // Library from https://bitbucket.org/teckel12/arduino-toneac/wiki/Home
 
 const unsigned long irONE = 0x20DF8877;
 const unsigned long irTWO = 0x20DF48B7;
